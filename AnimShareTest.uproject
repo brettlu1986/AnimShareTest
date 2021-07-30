@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{7FD962DA-4F47-4D3A-34BD-49A3EE9AEF1D}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "AnimShareTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "GameplayInsights",
+			"Enabled": true
+		}
+	]
+}
